@@ -1,0 +1,33 @@
+h1{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+p{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+body{
+    background-color: gray;
+        font-family: Arial, sans-serif;
+        font-weight: bold;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    
+}
+
+button{
+    color: white;
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    size: 5rem;
+}
